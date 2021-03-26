@@ -1,0 +1,9 @@
+C:\Users\nik-a\source\repos\Курсовая проект\Курсовая проект\bin\Debug\Курсовая проект.exe.config
+C:\Users\nik-a\source\repos\Курсовая проект\Курсовая проект\bin\Debug\Курсовая проект.exe
+C:\Users\nik-a\source\repos\Курсовая проект\Курсовая проект\bin\Debug\Курсовая проект.pdb
+C:\Users\nik-a\source\repos\Курсовая проект\Курсовая проект\obj\Debug\Курсовая проект.csprojAssemblyReference.cache
+C:\Users\nik-a\source\repos\Курсовая проект\Курсовая проект\obj\Debug\Курсовая_проект.Form1.resources
+C:\Users\nik-a\source\repos\Курсовая проект\Курсовая проект\obj\Debug\Курсовая_проект.Properties.Resources.resources
+C:\Users\nik-a\source\repos\Курсовая проект\Курсовая проект\obj\Debug\Курсовая проект.csproj.GenerateResource.cache
+C:\Users\nik-a\source\repos\Курсовая проект\Курсовая проект\obj\Debug\Курсовая проект.exe
+C:\Users\nik-a\source\repos\Курсовая проект\Курсовая проект\obj\Debug\Курсовая проект.pdb

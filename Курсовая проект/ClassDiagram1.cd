@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Курсовая_проект.Form1" Collapsed="true">
+    <Position X="7.75" Y="1.5" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>BUETCAACACEAIBgBAACDQAAiEAACCBAIAAwBMQAAIEQ=</HashCode>
+      <FileName>Form1.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Курсовая_проект.Article">
+    <Position X="5.5" Y="1.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAEAAAAQCAAAAAAAAAAACAAAAAAAAABQAAAAAACAAA=</HashCode>
+      <FileName>Article.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
